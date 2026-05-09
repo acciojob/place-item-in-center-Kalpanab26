@@ -1,7 +1,10 @@
 .item-1{
 	background-color:red;
 	width:100px;
-	height:100px;
+	
+}
+.holder{
+	/* height:100px; */
 	justify-content:center;
 	display:flex;
 	align-items:center;
